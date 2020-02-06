@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gi/GAAS/algorithms/fast_planner/utils/transform_pointcloud/build/devel/setup.sh
